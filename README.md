@@ -50,7 +50,7 @@ Each roadmap includes:
 
 4. 🚀 Level up your skills in a structured, strategic way!
 
-📢 Contribute & Collaborate
+## 📢 Contribute & Collaborate
 Want to share your learning journey or improve a roadmap?
 
 ✍️ Open a Pull Request
